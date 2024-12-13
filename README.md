@@ -7,7 +7,6 @@ Welcome to my GitHub repository for DSA (Data Structures and Algorithms) solutio
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Folder Structure](#folder-structure)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#contact)
